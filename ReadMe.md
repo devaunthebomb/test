@@ -1,0 +1,1 @@
+This script shows a photo of a tree and shows the word hello in red using css and html.
